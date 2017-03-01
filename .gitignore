@@ -1,2 +1,4 @@
 
 *.csv
+
+.ipynb_checkpoints/01DataMunging-checkpoint.ipynb
